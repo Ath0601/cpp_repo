@@ -3,8 +3,8 @@ using namespace std;
 
 int main()
 {
-    int a, b;
-    float c;
+    double a, b;
+    double c;
     cin >> a >> b;
     cout << a - b << endl;
     c = b/a;
