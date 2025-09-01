@@ -9,7 +9,6 @@
 *.ilk
 *.out
 *.log
-*.exe
 
 # Visual Studio / VSCode
 .vs/
