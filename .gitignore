@@ -16,7 +16,7 @@
 !.vscode/tasks.json
 !.vscode/launch.json
 
-# IntelliSense cache
+# IntelliSense/cache
 *.ipch
 *.db
 
